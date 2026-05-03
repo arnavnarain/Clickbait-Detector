@@ -1,6 +1,6 @@
 # Clickbait Detector & News Summarizer
 
-CS4100 Artificial Intelligence final project. Two-part system that detects clickbait headlines and summarizes news articles.
+Two-part system that detects clickbait headlines and summarizes news articles.
 
 ## Components
 
